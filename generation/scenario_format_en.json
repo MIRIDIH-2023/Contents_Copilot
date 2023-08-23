@@ -1,0 +1,63 @@
+{
+	"Generation": [
+		{
+			"table_of_contents": [
+				"How to care of pets?",
+				"Feeding Pets",
+				"Grooming Pets",
+				"Veterinary Care"
+			]
+		},
+		{
+			"topic": "Feeding Pets",
+			"keywords": [
+				"pet food",
+				"pet nutrition",
+				"pet diet"
+			],
+			"contents": [
+				"proper nutrition",
+				"balanced diet",
+				"high-quality food"
+			]
+		},
+		{
+			"topic": "Grooming Pets",
+			"keywords": [
+				"pet grooming",
+				"pet care",
+				"pet hygiene"
+			],
+			"contents": [
+				"Brushing fur",
+				"Trimming nails",
+				"Cleaning ears",
+				"Bathing"
+			]
+		},
+		{
+			"topic": "Veterinary Care",
+			"keywords": [
+				"veterinary",
+				"care",
+				"pets",
+				"animals"
+			],
+			"contents": [
+				"preventive care",
+				"diagnosis and treatment",
+				"surgery",
+				"dental care",
+				"nutrition and diet"
+			]
+		},
+		{
+			"reference": [
+				"https://www.google.com/search?q=how+to+care+for+pets",
+				"https://www.google.com/search?q=feeding+pets",
+				"https://www.google.com/search?q=grooming+pets",
+				"https://www.google.com/search?q=veterinary+care"
+			]
+		}
+	]
+}

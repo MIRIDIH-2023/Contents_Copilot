@@ -1,0 +1,11 @@
+openai
+langchain
+python-dotenv
+google-search-results
+wikipedia
+
+# check README.md to install below
+# chromadb
+# tiktoken
+
+# conda create -n PE python=3.11.4

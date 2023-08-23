@@ -1,0 +1,45 @@
+{
+	"Generation": [
+		{
+			"table_of_contents": [
+				"Artificial Intelligence",
+				"Machine Learning",
+				"Natural Language Processing",
+				"Robotics"
+			]
+		},
+		{
+			"topic": "Machine Learning",
+			"contents": [
+				"Data Analysis",
+				"Algorithms",
+				"Prediction Models"
+			]
+		},
+		{
+			"topic": "Natural Language Processing",
+			"contents": [
+				"Natural Language Understanding",
+				"Text Analysis",
+				"Text Generation"
+			]
+		},
+		{
+			"topic": "Robotics",
+			"contents": [
+				"Robot Design",
+				"Robot Programming",
+				"Robot Sensors",
+				"Robot Actuators"
+			]
+		},
+		{
+			"reference": [
+				"https://www.google.com",
+				"https://www.google.com/search?q=definition+of+machine+learning",
+				"https://www.google.com/search?q=natural+language+processing",
+				"https://www.google.com/search?q=definition+of+robotics"
+			]
+		}
+	]
+}
